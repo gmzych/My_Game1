@@ -1,0 +1,6 @@
+/Users/michalzych/Desktop/C# CODE/Projekt13/Projekt13/bin/Debug/Projekt13.exe
+/Users/michalzych/Desktop/C# CODE/Projekt13/Projekt13/bin/Debug/Projekt13.pdb
+/Users/michalzych/Desktop/C# CODE/Projekt13/Projekt13/obj/Debug/Projekt13.csprojAssemblyReference.cache
+/Users/michalzych/Desktop/C# CODE/Projekt13/Projekt13/obj/Debug/Projekt13.csproj.CoreCompileInputs.cache
+/Users/michalzych/Desktop/C# CODE/Projekt13/Projekt13/obj/Debug/Projekt13.exe
+/Users/michalzych/Desktop/C# CODE/Projekt13/Projekt13/obj/Debug/Projekt13.pdb

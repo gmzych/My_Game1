@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F3E468F0-6907-4E30-BB39-0EF588BDEA59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Projekt13/Program.cs">
+    <Files>
+      <File FileName="Projekt13/Kot.cs" Line="16" Column="1" />
+      <File FileName="Projekt13/Program.cs" Line="11" Column="1" />
+      <File FileName="Projekt13/Pies.cs" Line="15" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Projekt13" expanded="True">
+            <Node name="Projekt13" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Projekt13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
